@@ -8,6 +8,7 @@ const Layout = () => {
       <MessengerCustomerChat
         pageId="101060685879386"
         appId="884744029056481"
+        language="vi-VN"
       />
       <Outlet />
     </div>
